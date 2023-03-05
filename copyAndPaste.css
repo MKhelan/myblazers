@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 14rem;
+    background-color: #18ac18;
+    
+}
+.input1{
+    border-radius: 25px;
+    border: 2px solid white;
+    width: 9rem;
+}
+.button1{
+    width: 4rem; 
+    margin: 10px;
+    margin-left: 2.7rem;
+    background-color: #100f0f;
+    color: white;
+    border: 0;
+
+}
+.container1{
+    margin: 2rem;
+
+}
+.container2{
+    margin: 2rem;
+}
+form{
+    border: 5px solid white;
+}
+fieldset{
+    border: 5px solid white;
+}
+.input2{
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
